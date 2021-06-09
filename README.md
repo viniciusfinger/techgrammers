@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    Techgrammers
+   👨‍💻 Techgrammers 👩‍💻
   </a>
 </h1>
 

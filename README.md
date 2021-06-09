@@ -1,12 +1,11 @@
 <h1 align="center">
-  <a href="https://reactnative.dev/">
-    React Native
+  <a href="#">
+    Techgrammers
   </a>
 </h1>
 
 <p align="center">
-  <strong>Learn once, write anywhere:</strong><br>
-  Build mobile apps with React.
+  <strong>Organização dos criadores de conteúdo Tech no Instagram.</strong><br>
 </p>
 
 <p align="center">

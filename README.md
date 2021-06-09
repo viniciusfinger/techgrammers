@@ -28,17 +28,10 @@
 </p>
 
 <h3 align="center">
-  <a href="https://reactnative.dev/docs/getting-started">Getting Started</a>
+  <a href="https://api.whatsapp.com/send?phone=5551983043447&text=Ol%C3%A1!%20Gostaria%20de%20entrar%20no%20grupo%20Techgrammers">Grupo no Whatsapp</a>
   <span> · </span>
-  <a href="https://reactnative.dev/docs/tutorial">Learn the Basics</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/showcase.html">Showcase</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/docs/contributing">Contribute</a>
-  <span> · </span>
-  <a href="https://reactnative.dev/help">Community</a>
-  <span> · </span>
-  <a href="https://github.com/facebook/react-native/blob/master/.github/SUPPORT.md">Support</a>
+  <a href="#">Teste</a>
+
 </h3>
 
 React Native brings [**React**'s][r] declarative UI framework to iOS and Android. With React Native, you use native UI controls and have full access to the native platform.

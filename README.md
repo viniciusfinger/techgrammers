@@ -19,7 +19,8 @@ Usuário | Sobre o que fala
 ------------ | -------
 <a href="https://www.instagram.com/roadtosenior/">@roadtosenior</a> | Programação, Boas práticas de código, Minimalismo
 <a href="https://www.instagram.com/mbanagouro/">@mbanagouro</a> | ASP.NET, Arquitetura de Software, Dia a Dia de um Programador Empreendedor
-<a href="https://www.instagram.com/_devmobile/">@_devmobile_</a> | Compartilhando conhecimento em <strong><a href="https://flutter.dev/" >Flutter</a></strong> para te ajudar a se tornar um Dev Mobile
+<a href="https://www.instagram.com/_devmobile/">@_devmobile_</a> | Compartilhando conhecimento em <strong><a href="https://flutter.dev/">Flutter</a></strong> para te ajudar a se tornar um Dev Mobile
+<a href="https://www.instagram.com/pycodebr/">@pycodebr</a> | Python, um pouco de DevOps e curiosidades
 
 
 ## 📋 Como entrar na lista?

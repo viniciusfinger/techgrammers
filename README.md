@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Organização dos criadores de conteúdo Tech no Instagram.</strong><br>
+  <strong>Criadores de conteúdo Tech no Instagram</strong><br>
   organizado por @roadtosenior 🚀
 </p>
 

@@ -19,6 +19,7 @@ Usuário | Sobre o que fala
 ------------ | -------
 <a href="https://www.instagram.com/roadtosenior/">@roadtosenior</a> | Programação, Boas práticas de código, Minimalismo
 <a href="https://www.instagram.com/mbanagouro/">@mbanagouro</a> | ASP.NET, Arquitetura de Software, Dia a Dia de um Programador Empreendedor
+<a href="https://www.instagram.com/pycodebr/">@pycodebr</a> | Python, um pouco de DevOps e curiosidades
 
 
 ## 📋 Como entrar na lista?

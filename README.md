@@ -22,6 +22,7 @@ Usuário | Sobre o que fala
 <a href="https://www.instagram.com/igorg_dev/">@igorg_dev</a> | Javascript, Python, Dia a Dia de um Dev Instrutor Backend
 <a href="https://www.instagram.com/_devmobile/">@_devmobile_</a> | Compartilhando conhecimento em <strong><a href="https://flutter.dev/">Flutter</a></strong> para te ajudar a se tornar um Dev Mobile
 <a href="https://www.instagram.com/pycodebr/">@pycodebr</a> | Python, DevOps e curiosidades
+<a href="https://www.instagram.com/kamila_code/">@kamila_code</a> | Backend, Java, Boas práticas, carreira e soft skills
 <a href="https://www.instagram.com/tech.moni/">@tech.moni</a> | Conteúdo para iniciantes em front-end (HTML, CSS, JS)
 
 ## 📋 Como entrar na lista?

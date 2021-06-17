@@ -24,6 +24,7 @@ Usuário | Sobre o que fala
 <a href="https://www.instagram.com/pycodebr/">@pycodebr</a> | Python, DevOps e curiosidades
 <a href="https://www.instagram.com/kamila_code/">@kamila_code</a> | Backend, Java, Boas práticas, carreira e soft skills
 <a href="https://www.instagram.com/tech.moni/">@tech.moni</a> | Conteúdo para iniciantes em front-end (HTML, CSS, JS)
+<a href="https://www.instagram.com/spacecoding/">@spacecoding</a> | Conteúdo da stack Microsoft, carreira na tecnológia, dev skills, empoderamento e representatividade feminina na área tecnológica.
 
 ## 📋 Como entrar na lista?
 

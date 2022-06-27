@@ -27,6 +27,7 @@ Usuário | Sobre o que fala
 <a href="https://www.instagram.com/spacecoding/">@spacecoding</a> | Conteúdo da stack Microsoft, carreira na tecnológia, dev skills, empoderamento e representatividade feminina na área tecnológica.
 <a href="https://www.instagram.com/cearense.dev/">@cearense.dev</a> | Te ajudo a iniciar/migrar para a programação. Entusiasta de Ruby e Rails.
 <a href="https://www.instagram.com/soumaisfront/">@soumaisfront</a> | Compartilho todo meu estudo de Front-end para quem está iniciando. 
+<a href="https://www.instagram.com/laboratoriodebits/">@laboratoriodebits</a> | Quer aprender Computação? Seu lugar é aqui. Guias, livros, artigos.
 
 ## 📋 Como entrar na lista?
 
